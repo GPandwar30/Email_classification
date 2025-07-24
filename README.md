@@ -5,6 +5,7 @@ This project is a machine learning-based web application that classifies emails 
 ---
 
 📌 Features
+
 🔤 Text preprocessing & tokenization
 
 🧠 Neural network trained for binary classification
@@ -16,6 +17,7 @@ This project is a machine learning-based web application that classifies emails 
 ---
 
 🧠 Model
+
 Framework: TensorFlow (Keras)
 
 Tokenizer: Custom or Keras tokenizer
@@ -25,6 +27,7 @@ Evaluation: Accuracy, Confusion Matrix, Precision, Recall
 ---
 
 🛠️ Tech Stack
+
 Python
 
 TensorFlow / Keras
@@ -39,31 +42,19 @@ Matplotlib / Seaborn (optional for visualizations)
 
 ---
 
-📁 Folder Structure
-
-Email_classification/
-├── app.py # Web app (Flask or Streamlit)
-├── models/ # Saved models
-├── templates/ # HTML templates (if Flask)
-├── static/ # CSS/images (if Flask)
-├── requirements.txt # Python dependencies
-├── README.md # Project README
-└── LICENSE # MIT License
-
-
----
-
 ⚠️ Note on Large Files
+
 This repo previously contained a large dataset (>100MB) that was removed for compliance with GitHub limits. Please download the dataset separately if needed.
 You can download the dataset manually here:
 
-👉 [Download combined_data.csv]([https://drive.google.com/uc?export=download&id=1yOurLInkId](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv))
+👉 [Download combined_data.csv]([https://drive.google.com/uc?export=download&id=1yOurLInkId](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv)
 
 > Note: File is large (133MB) and excluded from this repository due to GitHub's file size limit.
 
 ---
 
 ✍️ Author
+
 Gaurav Pandwar
 📧 [Email me](mailto:gp3084@gmail.com)
 🔗 LinkedIn | Portfolio
@@ -71,6 +62,7 @@ Gaurav Pandwar
 ---
 
 📜 License
+
 This project is licensed under the MIT License.
 
 ---
