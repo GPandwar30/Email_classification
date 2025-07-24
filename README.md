@@ -47,7 +47,7 @@ Matplotlib / Seaborn (optional for visualizations)
 This repo previously contained a large dataset (>100MB) that was removed for compliance with GitHub limits. Please download the dataset separately if needed.
 You can download the dataset manually here:
 
-👉 [Download combined_data.csv]([https://drive.google.com/uc?export=download&id=1yOurLInkId](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv)
+👉 [Download combined_data.csv](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv)
 
 > Note: File is large (133MB) and excluded from this repository due to GitHub's file size limit.
 
@@ -56,6 +56,7 @@ You can download the dataset manually here:
 ✍️ Author
 
 Gaurav Pandwar
+
 📧 [Email me](mailto:gp3084@gmail.com)
 🔗 LinkedIn | Portfolio
 
